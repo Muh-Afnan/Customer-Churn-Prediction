@@ -3,3 +3,7 @@ numpy
 matplotlib
 jupyter
 kagglehub
+imblearn
+pandas
+scikit-learn
+seaborn
